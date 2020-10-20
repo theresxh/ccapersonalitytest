@@ -18,6 +18,8 @@ music2 = input("I play a musical instrument well.")
 
 tech3 = input("I can code well")
 
+outoor3 = input("I am adventurous.")
+
 
 
 print()
